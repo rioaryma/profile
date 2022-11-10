@@ -12,7 +12,7 @@ body{
   font-family: "Candara", sans-serif;
   width: 340px;
   overflow: hidden;
-  background: #231e39;
+  background: #fff;
   border-radius: 10px;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
   display: flex;
@@ -37,7 +37,7 @@ body{
   margin-left: auto;
   margin-right: auto;
   border-radius: 100px;
-  border: 10px solid #fff;
+  border: 10px solid #231e39;
   transition-duration: 0.4s;
   transition-property: transform;
 }
